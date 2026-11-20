@@ -36,21 +36,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,fedora,vscode,unreal&perline=11" alt="Tools" />
 </p>
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PatLeGrand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatLeGrand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PatLeGrand&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-### 📈 Contribution graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatLeGrand&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-
 <div align="center">
   <sub>Built with ☕ and a small army of AI agents.</sub>
 </div>
