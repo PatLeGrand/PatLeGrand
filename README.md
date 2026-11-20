@@ -23,9 +23,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[nay-delegation](https://github.com/PatLeGrand/nay-delegation)** | Multi-agent orchestration engine: calls agents via their CLI, delegation order, quotas, local dashboard | ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
-| **[claude-delegation-kit](https://github.com/PatLeGrand/claude-delegation-kit)** | Delegation kit for Claude Code: Opus orchestrates, Codex & Sonnet build, Gemini reviews | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **[claude-cockpit](https://github.com/PatLeGrand/claude-cockpit)** | Claude Code mod: context gauge, session panel, sub-agent tracking | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **[codex-cockpit](https://github.com/PatLeGrand/codex-cockpit)** | Context & agent cockpit companion plugin for Codex Desktop | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | **[typio](https://github.com/PatLeGrand/typio)** | Typing-race platform for high-school students | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 ### 🧰 Tech stack
