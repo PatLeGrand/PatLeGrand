@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About me
 
-- 🎓 Computer science student who learns by building
+- 🎓 Computer science student at **Cégep de Sorel-Tracy**, learning by building
 - 🤖 Into **multi-agent orchestration**: getting Claude, Codex and Gemini to plan, code and review together
 - 🛠️ I build dev tools and plugins for **Claude Code**, **Codex** and **Antigravity**
 - 🐧 Daily driver: Fedora + KDE on Wayland
